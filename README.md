@@ -43,4 +43,4 @@ Deployed on Vercel.
 
 ## Author
 
-Your Name
+Hafiz Muhammad Ahmed
